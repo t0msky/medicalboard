@@ -1,0 +1,199 @@
+/* for blur login page */
+.blurbg .login-register {
+    background-image: url(../ui_template/assets/images/background/login-register5.jpg);
+}
+.blurbg .login-box.card {
+    background-color: rgba(0, 0, 0, 0.1);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 5px;
+}
+.blurbg .card-body {
+    padding: 2.5rem 2rem;
+}
+.blurbg .login-register {
+    padding: 3% 0;
+}
+.blurbg .logo-perkeso {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    margin: 0px auto 0;
+    height: 100px;
+}
+.blurbg .title-perkeso {
+    text-align: center;
+    margin: 10px auto 50px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #0397d7;
+}
+.blurbg h3 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+.blurbg hr {
+    border-top: 2px solid rgba(255, 255, 255, 0.8);
+}
+
+.blurbg input::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+
+.blurbg input:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #fff;
+}
+
+.blurbg input::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #fff;
+}
+.blurbg .form-group.lastitem {
+    margin-bottom: 0px;
+}
+
+/* for white login page */
+.whitebg .login-register {
+    background-color: #fff;
+}
+.whitebg .login-register.whiteclear {
+    background-color: #fff;
+    background-image: url(../../../assets/images/perkeso-pattern.png);
+    background-repeat: repeat;
+    background-size: auto;
+}
+.whitebg .login-register.blur {
+    background-color: #fff;
+    background-image: url(../../../assets/images/perkeso-pattern-blur.png);
+    background-repeat: repeat;
+    background-size: auto;
+}
+.whitebg .login-box.card {
+    background-color: rgba(0, 0, 0, 0.1);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 5px;
+}
+.whitebg .card-body {
+    padding: 2.5rem 2rem;
+}
+.whitebg .login-register {
+    padding: 3% 0;
+}
+.whitebg .logo-perkeso {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    margin: 0px auto 0;
+    height: 140px;
+    background-color: #fff;
+}
+.whitebg .title-perkeso {
+    text-align: center;
+    margin: 10px auto 50px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #0397d7;
+}
+.whitebg h3 {
+    color: #333;
+    font-size: 1.5rem;
+}
+.whitebg hr {
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.whitebg input::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #000;
+    opacity: 1; /* Firefox */
+}
+
+.whitebg input:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #000;
+}
+
+.whitebg input::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #000;
+}
+.whitebg .form-group.lastitem {
+    margin-bottom: 0px;
+}
+.whitebg .form-material .form-control,
+.whitebg .form-material .form-control.focus,
+.whitebg .form-material .form-control:focus {
+    background-image: linear-gradient(#fb9678, #fb9678),
+        linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+/* for blue background */
+.bluebg .login-register {
+    background-color: #0397d7;
+}
+.bluebg .login-box.card {
+    background-color: rgba(0, 0, 0, 0.3);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 5px;
+}
+.bluebg .card-body {
+    padding: 2.5rem 2rem;
+}
+.bluebg .login-register {
+    padding: 3% 0;
+}
+.bluebg .logo-perkeso {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    margin: 0px auto 0;
+    height: 100px;
+}
+.bluebg .title-perkeso {
+    text-align: center;
+    margin: 10px auto 50px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+}
+.bluebg h3 {
+    color: #fff;
+    font-size: 1.5rem;
+}
+.bluebg hr {
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.bluebg input::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+
+.bluebg input:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #fff;
+}
+
+.bluebg input::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #fff;
+}
+.bluebg .form-group.lastitem {
+    margin-bottom: 0px;
+}
+.bluebg .form-material .form-control,
+.bluebg .form-material .form-control.focus,
+.bluebg .form-material .form-control:focus {
+    background-image: linear-gradient(#fb9678, #fb9678),
+        linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+}
+
